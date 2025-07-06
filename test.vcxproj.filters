@@ -18,7 +18,7 @@
     <ClCompile Include="x64\sprintVec.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="practice\8(重要)三数之和.cpp">
+    <ClCompile Include="practice\69 环形链表2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
