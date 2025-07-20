@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="practice\69 环形链表2.cpp" />
+    <ClCompile Include="practice\71 二叉树的中序遍历.cpp" />
     <ClCompile Include="x64\sprintVec.cpp" />
   </ItemGroup>
   <ItemGroup>
